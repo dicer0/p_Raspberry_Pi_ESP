@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Raspberry Pi platf
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/11/p_RaspberryPi.webp)](https://dicer0.com/#skills)
+[![Raspberry Pi](http://dicer0.com/wp-content/uploads/2023/11/p_RaspberryPi.webp)](https://dicer0.com/#skills)
